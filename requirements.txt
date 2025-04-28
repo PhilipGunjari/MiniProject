@@ -1,0 +1,10 @@
+opencv-python==4.5.3.56
+numpy==1.21.2
+tensorflow== 2.15.0
+pandas==2.2.2
+cryptography== 42.0.5
+datasketch==1.5.10
+reedsolo==1.7.0
+
+
+
