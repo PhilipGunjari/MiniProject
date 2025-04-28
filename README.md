@@ -33,7 +33,9 @@ MiniProject/
 ├── requirements.txt         # Project dependencies
 └── fingerprint-based-cryptographic-key-generation.ipynb  # Main implementation notebook
 ```
-
+## Dataset Used : FVC 2000 Dataset
+FVC2000 is a standard fingerprint dataset released during the First International Fingerprint Verification Competition (FVC 2000).
+It was designed to benchmark fingerprint verification algorithms by providing a diverse, real-world collection of fingerprint images.
 ## Model Architecture
 
 The model uses a CNN architecture with the following layers:
